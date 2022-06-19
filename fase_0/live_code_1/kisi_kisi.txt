@@ -1,0 +1,6 @@
+kisi-kisi live code : 
+
+pandas
+load data
+query
+conditional
